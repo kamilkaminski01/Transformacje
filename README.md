@@ -41,5 +41,5 @@ Program po uruchomieniu program wczytuje dwa pliki zdjęciowe o nazwie "obrazek.
 Po wybraniu trybu, w folderze projektu generuje się trzeci plik zdjęciowy o nazwie "grayscale.jpg" edytowany odopwiednią opcją.
 
 ## Zrzuty ekranu
-- [Menu](/menu.jpg)
-- [Przykladowe-zdjecie](/przykladowe-zdjecie.jpg)
+- [Menu](/zrzuty-ekranu/menu.jpg)
+- [Przykladowe-zdjecie](/zrzuty-ekranu/przykladowe-zdjecie.jpg)
